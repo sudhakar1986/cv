@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Sudhakar's Personal Site</title>
+</head>
+
+<body>
+  <img src="Sudhakar S.png" alt=Sudhakar Profile Picture"">
+  <h1>Sudhakar S</h1>
+    <a href="https://www.linkedin.com/in/sudhakarraos/" target="_blank"</a>Linkedin Profile</a>
+    <!-- href is the URL, target _blank opens the URL in a new window & Linkedin Profile is the text which gets hyperlinked -->
+  <p><em>Training Process Member at <strong>ZeMoSo</strong> Technologies.</em></p>
+  <p><em>I am a Computer Science graduate. Worked with various MNCs as well as starup's and supported customers of US, India and other parts of the world. I 🧡 learning new skills and recently acquired Prince2 Agile, ITIL & Lean Six Sigma skills.
+  I am very excited about my new role and looking forward to a successful career at <strong>ZeMoSo.</strong></em></p>
+<hr> <!-- hr Draws a line to separate paragraphs -->
+<h3>Education & Skills</h3>
+  <p>Went to KV No-2 School.
+  <br>
+  Went to Vignan Junior College and Pragathi Mahavidyalaya.
+  <br>
+  Skills: Prince2 Agile, ITIL & Lean Six Sigma.
+  </p>
+
+<h3>Training</h3>
+<ul>
+  <li>The Complete Web Development Bootcamp.</li>
+  <li>The Complete iOS App Development Bootcamp</li>
+</ul>
+<h3>My Hobbies</h3>
+<ol>
+  <li>Video Editing</li>
+  <li>Playing Guitar</li>
+  <li>Watching inspiration videos</li>
+</ol>
+</body>
+
+</html>
